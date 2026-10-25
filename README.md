@@ -12,8 +12,9 @@ Les exercices utilisent différentes structures Python :
 - Sets
 - Fonctions
 - Menus interactifs
+- 
 
-L'objectif est de simuler des cas pratiques proches d'applications réelles : gestion d'étudiants, ventes, stocks et analyses business.
+L'objectif est de simuler des cas pratiques proches d'applications réelles : gestion d'étudiants, ventes, stocks et analyses business
 
 
 ---
